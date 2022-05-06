@@ -1,0 +1,2 @@
+# kodluyoruzwebsayfasidetaylandirma
+Kişisel Sayfamızı Detaylandırmaya Devam Etmek
