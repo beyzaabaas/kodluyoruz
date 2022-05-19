@@ -1,0 +1,50 @@
+/* htmllerin hepsi */
+body {
+  background-color: #e9ecef;
+}
+.container {
+  text-align: center;
+}
+a:hover {
+  text-decoration: none;
+}
+li {
+  list-style-position: inside;
+}
+
+/* index html içi */
+.input {
+  border: none;
+  padding: 5px 10px;
+  border-radius: 2px;
+  color: white;
+}
+
+/* product kısmı */
+.card {
+  width: 32%;
+  padding-bottom: 3rem;
+}
+.card p {
+  padding-top: 5rem;
+
+  color: blueviolet;
+  font-weight: 700;
+}
+.card img {
+  width: 300px;
+  height: 350px;
+  padding-left: 3rem;
+  padding-top: 1rem;
+}
+.card span {
+  background-color: gray;
+  color: #f2f2f2;
+  border-radius: 25px;
+  margin: 0 9rem;
+  float: right;
+}
+.article {
+  text-align: left;
+  padding: 1rem 2rem;
+}
